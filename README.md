@@ -1,4 +1,4 @@
-- 👋 Olá, Eu sou Sonia Oliveira!
+- 👋 Olá,sou Sonia Oliveira!
 - 👀 Estou interessada em aprender novas linguagens.
 - 🌱 Estou aprendendo  neste momento  liguagem C, Liguagem de Marcação HTML, PHP,NoCode.
 
